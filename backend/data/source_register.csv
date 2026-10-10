@@ -1,0 +1,7 @@
+doc_id,title,issuer,authority_level,doc_type,version,effective_from,effective_to,supersedes,scope_programmes,scope_batches,provenance,retrieved_on,synthetic
+ACAD-REG-2024,Academic Regulations for B.Tech Programmes,Office of the Dean (Academics) & Senate,1,regulation,3.1,2024-07-01,,ACAD-REG-2021,"B.Tech CSE, B.Tech ECE",ALL,https://www.nitj.ac.in/academic/regulations_btech_2024.pdf,2026-10-05,N
+PLACE-POL-2025,Campus Placement and Internship Policy 2025-2026,Centre for Training & Placement (CTP),2,circular,2.0,2025-08-01,,PLACE-POL-2024,ALL,"2022, 2023",https://www.nitj.ac.in/placement/policy_2025.pdf,2026-10-05,N
+CIRC-2026-ATT,Circular: Revision of Minimum Attendance Threshold for Newly Admitted Batches,Office of the Dean (Academics),2,circular,1.0,2026-08-01,,ACAD-REG-2024#7.2,ALL,2024+,https://www.nitj.ac.in/notices/circular_att_2026.pdf,2026-10-06,Y
+DEPT-FAQ-2026,Department Student Helpdesk FAQ,Department Student Affairs Committee,4,faq,1.1,2026-09-15,,,ALL,ALL,https://www.nitj.ac.in/faq/student_helpdesk_2026.html,2026-10-06,Y
+NITJ-ACAD-POLICY-2023,Ordinances and Regulations for Undergraduate Programme 2023,Dr B R Ambedkar National Institute of Technology Jalandhar,1,regulation,2023.1,2023-08-01,,ACAD-REG-2021,ALL,2023+,NITJ Official Website,2026-10-10,N
+NITJ-PLACEMENT-POLICY-2026,Placement & Internship Policy (2023-2027 Batch Onwards),"Centre for Training & Placement, NIT Jalandhar",2,circular,2026-NEP,2023-08-01,,PLACE-POL-2024,ALL,2023+,NITJ Centre for Training & Placement,2026-10-10,N
